@@ -1,5 +1,5 @@
 # Iris_classification
- Overview
+📌 Overview
 This project uses the Iris dataset to classify flowers into three species — Iris setosa, Iris versicolor, and Iris virginica — based on their morphological features. The dataset contains measurements for sepal length, sepal width, petal length, and petal width.
 Machine learning models such as Logistic Regression and Random Forest Classifier are trained and evaluated to achieve accurate classification.
 
